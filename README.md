@@ -1,0 +1,1 @@
+A simple, very dumb theme for [Oh My ZSH](https://ohmyz.sh/)
